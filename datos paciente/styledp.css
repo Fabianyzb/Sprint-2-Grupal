@@ -1,0 +1,25 @@
+.body-background {
+    height:100vh;
+    background-image: url(img/pantalla\ pacientes.jpeg)
+}
+
+.card{
+    width:400px;
+    border:none;
+    
+}
+
+.form-control{
+    height:45px;
+    border-radius:10px;
+}
+
+.form-control:focus{
+    box-shadow:none;
+}
+
+
+.btn-signup{
+    height:50px;
+    border-radius:10px;
+}
